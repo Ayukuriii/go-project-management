@@ -10,3 +10,4 @@ WPU Course Fullstack GO ReactJS
 - gorm.io/driver/sqlite
 - github.com/swaggo/fiber-swagger/v2
 - github.com/swaggo/swag
+- github.com/google/uuid
