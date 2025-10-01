@@ -11,3 +11,4 @@
 
 - creating models for card, card position, comment, and label
 - creating models for card_label, card_attachment, and card_asignee
+- create config to setup database connection and jwt secret from .env
