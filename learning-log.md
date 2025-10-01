@@ -4,3 +4,6 @@
 
 # 19/09/2025
 - learn how to create a custom datatype for uuid array
+
+# 01/10/2025
+- creating models for card, card position, comment, and label
